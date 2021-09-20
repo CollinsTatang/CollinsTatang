@@ -16,7 +16,7 @@
 const collinsTatang = {
   lookingFor: "Front-End developer" || "Back-End developer",
   pronouns: ["he", "his"],
-  code: [Ruby on Rails, Javascript, Ruby, HTML/CSS, Semantic UI, Bootstrap],
+  code: [Ruby on Rails, Javascript, React&Redux, HTML/CSS, Bootstrap, PHP, Laravel],
   challenge: "I am a fast learner Developer",
   funFacts: ['I have started remote work experience with devs 
   from all over the world and I love it :)', 
@@ -25,7 +25,7 @@ const collinsTatang = {
 ```
 |My github statistics|Streaks|My languages|
 |-|-|-|
-|[![Ari's github stats](https://github-readme-stats.vercel.app/api?username=arikarim&show_icons=true&theme=dark&hide_title=true)](https://github.com/CollinsTatang)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=CollinsTatang&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arikarim&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/CollinsTatang)
+|[![Ari's github stats](https://github-readme-stats.vercel.app/api?username=CollinsTatang&show_icons=true&theme=dark&hide_title=true)](https://github.com/CollinsTatang)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=CollinsTatang&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsTatang&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/CollinsTatang)
 
   
 
