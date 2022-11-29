@@ -31,4 +31,3 @@ const collinsTatang = {
 
 ![Profile views](https://gpvc.arturio.dev/CollinsTatang)
 ![Profile views](https://gpvc.arturio.dev/CollinsTatang)
-{"mode":"full","isActive":false}
