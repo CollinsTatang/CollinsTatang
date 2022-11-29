@@ -16,9 +16,9 @@
 const collinsTatang = {
   lookingFor: "Front-End developer" || "Back-End developer",
   pronouns: ["he", "his"],
-  code: [Ruby on Rails, Javascript, React&Redux, HTML/CSS, Bootstrap, PHP, Laravel],
+  code: [ HTML/CSS, Javascript, React&Redux, Ruby on Rails, PHP, Laravel],
   challenge: "I am a fast learner Developer",
-  funFacts: ['I have started remote work experience with devs 
+  funFacts: ['I work remotely with devs 
   from all over the world and I love it :)', 
 ]
 }
