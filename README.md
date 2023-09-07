@@ -1,5 +1,5 @@
 
-<h1> Hi, I'm Collins Tatang I am a Full-Stack Developer <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h1>
+<h1> Software Engineer <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h1>
 
 <p><em>Remote Full-stack web developer ready to learn at any minute.</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
