@@ -19,6 +19,5 @@ const collinsTatang = {
   code: [ HTML/CSS, Javascript, React&Redux, NodeJS, Ruby on Rails, PHP, Laravel],
   challenge: "I am a fast learner Developer",
   funFacts: ['I work remotely with devs 
-  from all over the world and I love it :)', 
-]
+  from all over the world and I love it.']
 }
