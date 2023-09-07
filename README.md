@@ -15,7 +15,7 @@
 ```javascript
 const collinsTatang = {
   lookingFor: "Front-End developer" || "Back-End developer",
-  pronouns: ["he", "his"],
+  pronouns: ["he", "him"],
   code: [ HTML/CSS, Javascript, React&Redux, NodeJS, Ruby on Rails, PHP, Laravel],
   challenge: "I am a fast learner Developer",
   funFacts: ['I work remotely with devs 
