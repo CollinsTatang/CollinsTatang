@@ -3,17 +3,11 @@
 
 <p><em>Full-Stack Web Developer ready to learn at any minute.</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-### Connect With Me:
-
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/CollinsTatang1) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/makungong-collins/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)] 
-
-
 # Little More About Me
 ```javascript
 const collinsTatang = {
   lookingFor: "Front-End developer" || "Back-End developer",
   code: [ HTML/CSS, Javascript, React&Redux, Next, NodeJS, Ruby on Rails, PHP, Laravel],
   challenge: "I am a fast learner Developer",
-  funFacts: ['I work remotely with devs 
-  from all over the world and I love it.']
+  funFacts: ['I work remotely with devs across the world and I love it.']
 }
