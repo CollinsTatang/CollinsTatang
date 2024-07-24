@@ -1,7 +1,7 @@
 
 <h1> Software Developer <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h1>
 
-<p><em>Full-Stack Web Developer ready to learn at any minute.</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<p><em>I'm eager to learn and grow alongside the challenges thrown my way.</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 # Little More About Me
 
