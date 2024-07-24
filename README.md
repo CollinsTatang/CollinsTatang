@@ -5,4 +5,4 @@
 
 # Little More About Me
 
-<p>I am a dynamic Full-Stack Software Developer with 5+ years of expertise crafting aesthetic functional web and mobile solutions. Collaborate with 2-10 team members to transform ideas into production-ready applications. Skilled in agile methodologies and enhancing user interface efficiency and system performance.</p>
+<p>Driven professional with a broad technical skill set. Excellent communicator and experience in interpreting client and staff visions of new websites. Known for the ability to multi-task and juggle multiple pressing projects simultaneously, meeting all deadlines. Thrives in environments that constantly embrace new technologies.</p>
