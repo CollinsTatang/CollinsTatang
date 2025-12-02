@@ -1,5 +1,5 @@
 
-<h1> Software Engineer <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h1>
+<h1>Senior Software Engineer <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h1>
 
 <p><em>I'm eager to learn and grow alongside the challenges thrown my way.</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
